@@ -1,4 +1,4 @@
-import  {Deck, Slide, Heading} from 'spectacle'
+import  {Deck, Slide} from 'spectacle'
 import {Intro} from './slides/Intro'
 import BuildingBlocks from './slides/BuildingBlocks'
 function App() {

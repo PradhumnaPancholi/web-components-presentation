@@ -1,4 +1,4 @@
-import {Heading, Text, OrderedList, ListItem} from 'spectacle'
+import {Heading, OrderedList, ListItem} from 'spectacle'
 import React from 'react'
 
 const BuildingBlocks = () => {
